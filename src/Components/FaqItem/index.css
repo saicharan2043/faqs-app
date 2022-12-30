@@ -1,0 +1,36 @@
+/* Write your code here. */
+
+.list {
+  background-color: transparent;
+  border: 1px solid #d7dae6;
+  width: 100%;
+  padding: 10px;
+}
+
+.top-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.top-text {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #52606d;
+}
+
+.top-img {
+  height: 25px;
+}
+
+.hr-line {
+  border: 1px solid #e4e7eb;
+  margin-bottom: 10px;
+}
+
+.discription {
+  font-family: Roboto;
+  font-size: 17px;
+  color: #9aa5b1;
+}
